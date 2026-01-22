@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My name is Nan. My hobby is watching movies. I like puppies.
+=======
+My name is Nan. My hobby is watching movies. I don't like pineapples on hwaian pizza.
+>>>>>>> conflict-branch
